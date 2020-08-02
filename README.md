@@ -1,3 +1,5 @@
 # new-website
 
-this is my second website
+This is my second website
+
+Making changes to readme
